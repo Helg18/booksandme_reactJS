@@ -1,21 +1,37 @@
 import React, {Component} from 'react';
+import Categories from '../Categories/Categories';
+import Books from '../../books';
 import './BookList.css';
 
 class BookList extends Component {
-    render() {
+
+    getBooks = json => json.map(function (book) {
+        console.log(book);
         return (
-            <div className={"col-md-2"}>
+            <div className={"col-md-2"} key={book['ID']}>
                 <div className="card">
                     <img
-                        src="https://olcovers2.blob.core.windows.net/coverswp/2018/12/seeing-theory_OpenLibra-110x153.jpg"
-                        className="card-img-top" alt="..."/>
+                        src={book['thumbnail']}
+                        className="card-img-top" alt={book['title']}/>
                     <div className="card-body">
-                        <p className="card-text">Title's Book</p>
-                        <p className="card-text">Category</p>
-                        <p className="card-text">Sub-category</p>
-                        <p className="card-text">Link</p>
+                        <p className="card-text title">{book['title']} - {book['author']}</p>
+                        <p className="card-text lang">Pages: {book['pages']} | Lang: {book['language']}</p>
+                        <p className="card-text categories">
+                            <Categories categories={book['categories']}/>
+                        </p>
+                        <p className="card-text card-foot">
+                            <button className="btn btn-outline-danger form-control">Ver</button>
+                        </p>
                     </div>
                 </div>
+            </div>
+        );
+    });
+
+    render() {
+        return (
+            <div className="row">
+                {this.getBooks(Books)}
             </div>
         );
     }

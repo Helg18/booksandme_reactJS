@@ -2,3 +2,50 @@
     color: #a33;
     margin: 15px 0;
 }
+
+.card-body {
+    height: max-content;
+    padding: 5px;
+    overflow: hidden;
+}
+
+.title {
+    height: 80px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    margin: 0;
+    padding: 3px;
+}
+
+.title:hover {
+    color: #4f0000;
+}
+
+.lang {
+    color: black;
+    font-family: "Courier New", serif;
+    font-size: 14px;
+    text-transform: capitalize;
+    margin: 0;
+    padding: 0;
+}
+
+.categories {
+    overflow: hidden;
+}
+
+.card-foot {
+    bottom: 10px;
+    width: 100%;
+}
+
+.btn-outline-danger {
+    letter-spacing: 1px;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.btn-outline-danger:hover {
+    background-color: #4f0000;
+}
