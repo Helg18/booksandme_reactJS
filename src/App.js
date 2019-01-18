@@ -9,21 +9,7 @@ class App extends Component {
         <div id="App">
             <Header/>
             <div className="body container-fluid">
-                <div className="row">
-                    <BookList/>
-                    <BookList/>
-                    <BookList/>
-                    <BookList/>
-                    <BookList/>
-                    <BookList/>
-
-                    <BookList/>
-                    <BookList/>
-                    <BookList/>
-                    <BookList/>
-                    <BookList/>
-                    <BookList/>
-                </div>
+                <BookList/>
             </div>
       </div>
     );
