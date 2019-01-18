@@ -1,0 +1,562 @@
+[
+  {
+    "ID": "17021",
+    "title": "The MagPi #77",
+    "author": "Varios",
+    "content": "All this inside The MagPi 77:\r\n\r\n<ul>\r\n<li>Build a smart door<\/li>\r\n<li>1970s computing revisited with the PiDP-11<\/li>\r\n<li>The ten best DAC sound add-ons<\/li>\r\n<li>Save files from the command line<\/li>\r\n<li>Gaming with Picade Console<\/li>\r\n<li>And much more!<\/li>\r\n<\/ul>",
+    "content_short": "All this inside The MagPi 77:\r\n\r\n<ul>\r\n<li>Build a smart door<\/li>\r\n<li>1970s computing revisited with the PiDP-11<\/li>\r\n<li>The ten best DAC sound add-ons<\/li>\r\n<li>Save files from the command line<\/li>\r\n<li>Gaming with Picade Console<\/li>\r\n<li>And much more!<\/li>\r\n<\/ul>",
+    "publisher": "MagPi",
+    "publisher_date": "2019",
+    "pages": "100",
+    "language": "english",
+    "url_details": "http:\/\/www.etnassoft.com\/biblioteca\/the-magpi-77\/",
+    "url_download": "https:\/\/openlibra.com\/book\/the-magpi-77",
+    "cover": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/01\/MagPi77-OpenLibra-350x461.jpg",
+    "thumbnail": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/01\/MagPi77-OpenLibra-110x153.jpg",
+    "num_comments": "0",
+    "categories": [
+      {
+        "category_id": 1389,
+        "name": "MagPi",
+        "nicename": "magpi"
+      },
+      {
+        "category_id": 596,
+        "name": "Revistas",
+        "nicename": "revistas"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": 3041,
+        "name": "MagPi",
+        "nicename": "magpi"
+      },
+      {
+        "tag_id": 32,
+        "name": "programaci\u00f3n",
+        "nicename": "programacion"
+      },
+      {
+        "tag_id": 1390,
+        "name": "Raspberry Pi",
+        "nicename": "raspberry-pi"
+      },
+      {
+        "tag_id": 3008,
+        "name": "Revistas",
+        "nicename": "revistas"
+      },
+      {
+        "tag_id": 803,
+        "name": "tecnolog\u00eda",
+        "nicename": "tecnologia"
+      }
+    ]
+  },
+  {
+    "ID": "17023",
+    "title": "HackSpace #14",
+    "author": "Varios",
+    "content": "Grab your soldering iron, it's time to make some music. We take a look at how to build a modular synth complete with sequencer. Press the buttons, twiddle the knobs and you'll be able to create a unique sound based on a device you've constructed.\r\n\r\n<ul>\r\n<li>Makers mapping radiation in Japan<\/li>\r\n<li>Create a sound-activated light-up mask<\/li>\r\n<li>Drew Fustini chats about PCBs and open hardware<\/li>\r\n<li>Build an Arduino robot from scratch<\/li>\r\n<\/ul>",
+    "content_short": "Grab your soldering iron, it's time to make some music. We take a look at how to build a modular synth complete with sequencer. Press the buttons, twiddle the knobs ...",
+    "publisher": "Autoedici\u00f3n",
+    "publisher_date": "2019",
+    "pages": "132",
+    "language": "english",
+    "url_details": "http:\/\/www.etnassoft.com\/biblioteca\/hackspace-14\/",
+    "url_download": "https:\/\/openlibra.com\/book\/hackspace-14",
+    "cover": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/01\/HackSpaceMag14-OpenLibra-350x461.jpg",
+    "thumbnail": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2019\/01\/HackSpaceMag14-OpenLibra-110x153.jpg",
+    "num_comments": "0",
+    "categories": [
+      {
+        "category_id": 3340,
+        "name": "HackSpace",
+        "nicename": "hackspace"
+      },
+      {
+        "category_id": 596,
+        "name": "Revistas",
+        "nicename": "revistas"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": 572,
+        "name": "Arduino",
+        "nicename": "arduino"
+      },
+      {
+        "tag_id": 3344,
+        "name": "DIY",
+        "nicename": "diy"
+      },
+      {
+        "tag_id": 3339,
+        "name": "HackSpace",
+        "nicename": "hackspace"
+      },
+      {
+        "tag_id": 911,
+        "name": "m\u00fasica",
+        "nicename": "musica"
+      },
+      {
+        "tag_id": 3008,
+        "name": "Revistas",
+        "nicename": "revistas"
+      },
+      {
+        "tag_id": 1325,
+        "name": "sensores",
+        "nicename": "sensores"
+      },
+      {
+        "tag_id": 803,
+        "name": "tecnolog\u00eda",
+        "nicename": "tecnologia"
+      }
+    ]
+  },
+  {
+    "ID": "17007",
+    "title": "Biological Networks",
+    "author": "Rudiyanto Gunawan & Neda Bagheri (Eds.)",
+    "content": "Networks of coordinated interactions among biological entities govern a myriad of biological functions that span a wide range of both length and time scales—from ecosystems to individual cells, and from years (e.g., the life cycle of periodical cicadas) to milliseconds (e.g., allosteric enzyme regulation). For these networks, the concept of “the whole is greater than the sum of its parts” is often the norm rather than the exception. Meanwhile, continued advances in molecular biology and high-throughput technology have enabled a broad and systematic interrogation of whole-cell networks, allowing for the investigation of biological processes and functions at unprecedented breadth and resolution, even down to the single-cell level. The explosion of biological data, especially molecular-level intracellular data, necessitates new paradigms for unraveling the complexity of biological networks and for understanding how biological functions emerge from such networks. \r\n\r\nThese paradigms introduce new challenges related to the analysis of networks in which quantitative approaches such as machine learning and mathematical modeling play an indispensable role. The Special Issue on “Biological Networks” showcases advances in the development and application of in silico network modeling and analysis of biological systems. ",
+    "content_short": "Networks of coordinated interactions among biological entities govern a myriad of biological functions that span a wide range of both length and time scales—from ecosystems to individual cells, and from ...",
+    "publisher": "MDPI",
+    "publisher_date": "2018",
+    "pages": "176",
+    "language": "english",
+    "url_details": "http:\/\/www.etnassoft.com\/biblioteca\/biological-networks\/",
+    "url_download": "https:\/\/openlibra.com\/book\/biological-networks",
+    "cover": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2018\/12\/Biological_Networks-OpenLibra-323x461.jpg",
+    "thumbnail": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2018\/12\/Biological_Networks-OpenLibra-110x153.jpg",
+    "num_comments": "0",
+    "categories": [
+      {
+        "category_id": 206,
+        "name": "Ciencia",
+        "nicename": "ciencia"
+      },
+      {
+        "category_id": 208,
+        "name": "Matem\u00e1ticas",
+        "nicename": "ciencia_juegos_ciencia"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": 3026,
+        "name": "Biolog\u00eda",
+        "nicename": "biologia"
+      },
+      {
+        "tag_id": 2993,
+        "name": "Ciencia",
+        "nicename": "ciencia"
+      },
+      {
+        "tag_id": 2762,
+        "name": "modelado de datos",
+        "nicename": "modelado-de-datos"
+      },
+      {
+        "tag_id": 322,
+        "name": "redes",
+        "nicename": "redes"
+      },
+      {
+        "tag_id": 2924,
+        "name": "sistemas din\u00e1micos",
+        "nicename": "sistemas-dinamicos"
+      }
+    ]
+  },
+  {
+    "ID": "17017",
+    "title": "Seeing Theory",
+    "author": "Varios",
+    "content": "We believe that it is far more important for a student to develop statistical intuition than to be able to recite equations. We have developed a collection of 15 interactive visualizations, each of which presents a bite-sized concept that is encountered in an introductory statistics curriculum. By using visual explanations, we're able to reach students for whom purely mathematical notation is all but impenetrable. By using interactive visualizations, we encourage students to engage and explore.",
+    "content_short": "We believe that it is far more important for a student to develop statistical intuition than to be able to recite equations. We have developed a collection of 15 interactive ...",
+    "publisher": "Autoedici\u00f3n",
+    "publisher_date": "2018",
+    "pages": "66",
+    "language": "english",
+    "url_details": "http:\/\/www.etnassoft.com\/biblioteca\/seeing-theory\/",
+    "url_download": "https:\/\/openlibra.com\/book\/seeing-theory",
+    "cover": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2018\/12\/seeing-theory_OpenLibra-333x461.jpg",
+    "thumbnail": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2018\/12\/seeing-theory_OpenLibra-110x153.jpg",
+    "num_comments": "0",
+    "categories": [
+      {
+        "category_id": 206,
+        "name": "Ciencia",
+        "nicename": "ciencia"
+      },
+      {
+        "category_id": 208,
+        "name": "Matem\u00e1ticas",
+        "nicename": "ciencia_juegos_ciencia"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": 2993,
+        "name": "Ciencia",
+        "nicename": "ciencia"
+      },
+      {
+        "tag_id": 710,
+        "name": "datos",
+        "nicename": "datos"
+      },
+      {
+        "tag_id": 462,
+        "name": "estad\u00edstica",
+        "nicename": "estadistica"
+      },
+      {
+        "tag_id": 296,
+        "name": "matem\u00e1ticas",
+        "nicename": "matematicas"
+      },
+      {
+        "tag_id": 2905,
+        "name": "visualizaci\u00f3n",
+        "nicename": "visualizacion"
+      }
+    ]
+  },
+  {
+    "ID": "17009",
+    "title": "Interface Circuits for Microsensor Integrated Systems",
+    "author": "Giuseppe Ferri & Vincenzo Stornelli (Eds.)",
+    "content": "Recent advances in sensing technologies, especially those for Microsensor Integrated Systems, have led to several new commercial applications. Among these, low voltage and low power circuit architectures have gained growing attention, being suitable for portable long battery life devices. The aim is to improve the performances of actual interface circuits and systems, both in terms of voltage mode and current mode, in order to overcome the potential problems due to technology scaling and different technology integrations. Related problems, especially those concerning parasitics, lead to a severe interface design attention, especially concerning the analog front-end and novel and smart architecture must be explored and tested, both at simulation and prototype level. Moreover, the growing demand for autonomous systems gets even harder the interface design due to the need of energy-aware cost-effective circuit interfaces integrating, where possible, energy harvesting solutions. The objective of this Special Issue is to explore the potential solutions to overcome actual limitations in sensor interface circuits and systems, especially those for low voltage and low power Microsensor Integrated Systems. The present Special Issue aims to present and highlight the advances and the latest novel and emergent results on this topic, showing best practices, implementations and applications.\r\n\r\nThe Guest Editors invite to submit original research contributions dealing with sensor interfacing related to this specific topic. Additionally, application oriented and review papers are encouraged.",
+    "content_short": "Recent advances in sensing technologies, especially those for Microsensor Integrated Systems, have led to several new commercial applications. Among these, low voltage and low power circuit architectures have gained growing ...",
+    "publisher": "MDPI",
+    "publisher_date": "2018",
+    "pages": "172",
+    "language": "english",
+    "url_details": "http:\/\/www.etnassoft.com\/biblioteca\/interface-circuits-for-microsensor-integrated-systems\/",
+    "url_download": "https:\/\/openlibra.com\/book\/interface-circuits-for-microsensor-integrated-systems",
+    "cover": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2018\/12\/Interface_Circuits_for_Microsensor_Integrated_Systems-OpenLibra-323x461.jpg",
+    "thumbnail": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2018\/12\/Interface_Circuits_for_Microsensor_Integrated_Systems-OpenLibra-110x153.jpg",
+    "num_comments": "0",
+    "categories": [
+      {
+        "category_id": 2354,
+        "name": "Electr\u00f3nica",
+        "nicename": "electronica"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": 2993,
+        "name": "Ciencia",
+        "nicename": "ciencia"
+      },
+      {
+        "tag_id": 1763,
+        "name": "circuitos",
+        "nicename": "circuitos"
+      },
+      {
+        "tag_id": 1412,
+        "name": "electr\u00f3nica",
+        "nicename": "electronica"
+      },
+      {
+        "tag_id": 1731,
+        "name": "energ\u00eda",
+        "nicename": "energia"
+      },
+      {
+        "tag_id": 1325,
+        "name": "sensores",
+        "nicename": "sensores"
+      },
+      {
+        "tag_id": 3379,
+        "name": "sistemas integrados",
+        "nicename": "sistemas-integrados"
+      },
+      {
+        "tag_id": 803,
+        "name": "tecnolog\u00eda",
+        "nicename": "tecnologia"
+      }
+    ]
+  },
+  {
+    "ID": "17005",
+    "title": "Laser-Based Nano Fabrication and Nano Lithography",
+    "author": "Koji Sugioka & Ya Cheng (Eds.)",
+    "content": "The improvement of fabrication resolutions is an eternal challenge for miniaturizing and enhancing the integration degrees of devices. Laser processing is one of the most widely-used techniques in manufacturing due to its high-flexibility, high-speed, and environment-friendliness. The fabrication resolution of laser processing is, however, limited by the diffraction limit. Recently, many efforts have been made to overcome the diffraction limit in nano fabrication. Specifically, combinations of multiphoton absorption by ultrafast lasers and the threshold effect associated with a Gaussian beam profile provide fabrication resolutions far beyond the diffraction limit. The use of the optical near-field achieves nano ablation with feature sizes below 100 nm. Multiple pulse irradiation from the ultrafast laser produces periodic nanostructures with a spatial period much smaller than the wavelength. Unlimited diffraction resolutions can also be achieved with shaped laser beams. In the meanwhile, lasers are also widely used for synthesis of nano materials including fullerenes and nano particles. In view of the rapid advancement of this field in recent years, this Special Issue aims at introducing the state-of-the-art in nano fabrication and nano lithography, based on laser technologies, by leading groups in the field.\r\n\r\n<ul>\r\n<li>Laser processing<\/li>\r\n<li>Ultrafast laser<\/li>\r\n<li>Nano material synthesis<\/li>\r\n<li>Nano fabrication<\/li>\r\n<li>Nano ablation<\/li>\r\n<li>Nano lithography<\/li>\r\n<li>Optical near field<\/li>\r\n<li>Nano ripple formation<\/li>\r\n<li>Shaped beam processing<\/li>\r\n<\/ul>",
+    "content_short": "The improvement of fabrication resolutions is an eternal challenge for miniaturizing and enhancing the integration degrees of devices. Laser processing is one of the most widely-used techniques in manufacturing due ...",
+    "publisher": "MDPI",
+    "publisher_date": "2018",
+    "pages": "156",
+    "language": "english",
+    "url_details": "http:\/\/www.etnassoft.com\/biblioteca\/laser-based-nano-fabrication-and-nano-lithography\/",
+    "url_download": "https:\/\/openlibra.com\/book\/laser-based-nano-fabrication-and-nano-lithography",
+    "cover": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2018\/12\/Laser-Based_Nano_Fabrication_and_Nano_Lithography-OpenLibra-323x461.jpg",
+    "thumbnail": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2018\/12\/Laser-Based_Nano_Fabrication_and_Nano_Lithography-OpenLibra-110x153.jpg",
+    "num_comments": "0",
+    "categories": [
+      {
+        "category_id": 206,
+        "name": "Ciencia",
+        "nicename": "ciencia"
+      },
+      {
+        "category_id": 2340,
+        "name": "Tecnolog\u00eda",
+        "nicename": "tecnologia-ciencia"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": 2993,
+        "name": "Ciencia",
+        "nicename": "ciencia"
+      },
+      {
+        "tag_id": 2605,
+        "name": "l\u00e1ser",
+        "nicename": "laser"
+      },
+      {
+        "tag_id": 3378,
+        "name": "litograf\u00eda",
+        "nicename": "litografia"
+      },
+      {
+        "tag_id": 730,
+        "name": "\u00f3ptica",
+        "nicename": "optica"
+      },
+      {
+        "tag_id": 803,
+        "name": "tecnolog\u00eda",
+        "nicename": "tecnologia"
+      }
+    ]
+  },
+  {
+    "ID": "17003",
+    "title": "Book of Scratch Vol. 1",
+    "author": "Varios",
+    "content": "The first ever Code Club book is here! With it, you’ll learn how to code using Scratch, the block-based programming language. In each chapter you’ll find instructions to build cool games, animations, and interactive stories. Your friendly robot guide will aid you step-by-step through each project and give you handy tips along the way.\r\n\r\n<ul>\r\n<li>Learn to code using Scratch, the block-based language<\/li>\r\n<li>Follow step-by-step guides to create games and animations<\/li>\r\n<li>Use the magic glasses* to reveal secret hints<\/li>\r\n<li>The spiral binding* allows the book to lay flat<\/li>\r\n<\/ul>",
+    "content_short": "The first ever Code Club book is here! With it, you’ll learn how to code using Scratch, the block-based programming language. In each chapter you’ll find instructions to build cool ...",
+    "publisher": "Raspberry Pi Press",
+    "publisher_date": "2018",
+    "pages": "111",
+    "language": "english",
+    "url_details": "http:\/\/www.etnassoft.com\/biblioteca\/book-of-scratch-vol-1\/",
+    "url_download": "https:\/\/openlibra.com\/book\/book-of-scratch-vol-1",
+    "cover": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2018\/12\/CC_Book_of_Scratch_v1-OpenLibra-339x461.gif",
+    "thumbnail": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2018\/12\/CC_Book_of_Scratch_v1-OpenLibra-110x153.gif",
+    "num_comments": "0",
+    "categories": [
+      {
+        "category_id": 224,
+        "name": "Otros Lenguajes",
+        "nicename": "programacion_otros_lenguajes"
+      },
+      {
+        "category_id": 220,
+        "name": "Programaci\u00f3n",
+        "nicename": "libros_programacion"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": 3344,
+        "name": "DIY",
+        "nicename": "diy"
+      },
+      {
+        "tag_id": 32,
+        "name": "programaci\u00f3n",
+        "nicename": "programacion"
+      },
+      {
+        "tag_id": 240,
+        "name": "python",
+        "nicename": "python"
+      },
+      {
+        "tag_id": 1390,
+        "name": "Raspberry Pi",
+        "nicename": "raspberry-pi"
+      },
+      {
+        "tag_id": 608,
+        "name": "Scratch",
+        "nicename": "scratch"
+      },
+      {
+        "tag_id": 1325,
+        "name": "sensores",
+        "nicename": "sensores"
+      },
+      {
+        "tag_id": 803,
+        "name": "tecnolog\u00eda",
+        "nicename": "tecnologia"
+      }
+    ]
+  },
+  {
+    "ID": "17013",
+    "title": "Fuzzy Techniques for Decision Making",
+    "author": "Jos\u00e9 Carlos R. Alcantud (Ed.)",
+    "content": "The successful Bellman-Zadeh concept of a symmetrical decision model in a fuzzy environment, with full symmetry between constraints and objective functions, has been an inspiration for researchers on the general field of fuzzy decision making. Since Zadeh introduced the notion of fuzzy set many other types and extensions of fuzzy sets have been proposed and applied to make decisions.\r\n\r\nThis Special Issue invites contributions addressing novel techniques and tools for decision making (e.g., group or multi-criteria decision making) with notions that overcome the problem of finding the membership degree of each element in Zadeh&rsquo;s original model. We intend to garner articles in a variety of setups including fuzzy sets, fuzzy soft sets, type-2 fuzzy sets, interval-valued fuzzy sets, hesitant fuzzy set, fuzzy rough sets and rough fuzzy sets.",
+    "content_short": "The successful Bellman-Zadeh concept of a symmetrical decision model in a fuzzy environment, with full symmetry between constraints and objective functions, has been an inspiration for researchers on the general ...",
+    "publisher": "MDPI",
+    "publisher_date": "2018",
+    "pages": "412",
+    "language": "english",
+    "url_details": "http:\/\/www.etnassoft.com\/biblioteca\/fuzzy-techniques-for-decision-making\/",
+    "url_download": "https:\/\/openlibra.com\/book\/fuzzy-techniques-for-decision-making",
+    "cover": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2018\/12\/Fuzzy_Techniques_for_Decision_Making_OpenLibra-321x461.jpg",
+    "thumbnail": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2018\/12\/Fuzzy_Techniques_for_Decision_Making_OpenLibra-110x153.jpg",
+    "num_comments": "0",
+    "categories": [
+      {
+        "category_id": 206,
+        "name": "Ciencia",
+        "nicename": "ciencia"
+      },
+      {
+        "category_id": 217,
+        "name": "Marketing \/ Business",
+        "nicename": "marketing_y_business"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": 813,
+        "name": "historia",
+        "nicename": "historia"
+      },
+      {
+        "tag_id": 837,
+        "name": "l\u00f3gica",
+        "nicename": "logica"
+      },
+      {
+        "tag_id": 296,
+        "name": "matem\u00e1ticas",
+        "nicename": "matematicas"
+      },
+      {
+        "tag_id": 1938,
+        "name": "teor\u00eda de conjuntos",
+        "nicename": "teoria-de-conjuntos"
+      },
+      {
+        "tag_id": 3197,
+        "name": "Teor\u00eda de Decisi\u00f3n",
+        "nicename": "teoria-de-decision"
+      }
+    ]
+  },
+  {
+    "ID": "17015",
+    "title": "Color Image Processing",
+    "author": "Edoardo Provenzi (Ed.)",
+    "content": "Color is one of the most important and fascinating attributes of the natural environment. Research about color is becoming more and more prevalent in image processing and computer vision, even if many models are still designed for grayscale pictures and their extension to color images is not a trivial task. In fact, the intrinsic multidisciplinary character of color makes it difficult to model, both from a perceptual and a computational or mathematical level.\r\n\r\nThe intent of this Special Issue is to provide a framework where scientists in several different disciplines related to color can find a place to illustrate their ideas and results.\r\n\r\nThis Special Issue is primarily focused on the following topics, however we encourage all submissions related to color in imaging:\r\n\r\n<ul>\r\n<li>Computational color vision models<\/li>\r\n<li>Perceptually-inspired color image and video processing<\/li>\r\n<li>Variational and patch-based techniques applied to color images<\/li>\r\n<li>Color data compression and encoding<\/li>\r\n<li>Color image\/video indexing and retrieval<\/li>\r\n<li>Color enhancement<\/li>\r\n<li>Color constancy and saliency<\/li>\r\n<li>Color texture<\/li>\r\n<li>Color image and video watermarking<\/li>\r\n<li>Color image\/video quality assessment<\/li>\r\n<li>Multispectral imaging<\/li>\r\n<li>Geometry of color spaces<\/li>\r\n<li>Interactions between color science and other disciplines such as art, medicine, psychology, and so on<\/li>\r\n<li>Color imaging and technology for material appearance<\/li>\r\n<li>Color and contrast measures<\/li>\r\n<li>Statistics of natural images in color<\/li>\r\n<li>High dynamic range imaging in color<\/li>\r\n<\/ul>",
+    "content_short": "Color is one of the most important and fascinating attributes of the natural environment. Research about color is becoming more and more prevalent in image processing and computer vision, even ...",
+    "publisher": "MDPI",
+    "publisher_date": "2018",
+    "pages": "240",
+    "language": "english",
+    "url_details": "http:\/\/www.etnassoft.com\/biblioteca\/color-image-processing\/",
+    "url_download": "https:\/\/openlibra.com\/book\/color-image-processing",
+    "cover": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2018\/12\/Color_Image_Processing_OpenLibra-321x461.jpg",
+    "thumbnail": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2018\/12\/Color_Image_Processing_OpenLibra-110x153.jpg",
+    "num_comments": "0",
+    "categories": [
+      {
+        "category_id": 306,
+        "name": "Dise\u00f1o \/ 3D",
+        "nicename": "diseno_3d"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": 28,
+        "name": "color",
+        "nicename": "color"
+      },
+      {
+        "tag_id": 27,
+        "name": "dise\u00f1o",
+        "nicename": "diseno-2"
+      },
+      {
+        "tag_id": 2373,
+        "name": "procesamiento de im\u00e1genes",
+        "nicename": "procesamiento-de-imagenes"
+      }
+    ]
+  },
+  {
+    "ID": "17019",
+    "title": "Virtual Learning Design and Delivery",
+    "author": "Varios",
+    "content": "Online teaching can quickly become overwhelming. Finding ways to offer detailed and quality support, learning, and feedback, but through efficient and time-saving methods, will mean higher quality learning for less instructional time. For example, save all the course announcements, as they can be reused time and again. Create files of all tutorials and guidance videos, which can be used over and over. We will continue to discuss time-saving strategies throughout this eBook on each of the main topics covered.\r\n\r\nIn this book we will stress over and over that being choosy is the key to offering quality online learning design and delivery. Choose the right tools, for the right job, for the right need, for the right content. Choose the right teaching approaches, for the right learning needs, for the right learning content. Be choosy. If an instructor has too many tools in a course it can create cognitive overload of the students, who become overwhelmed and then they are learning to use tools rather than learning the course content. On the other hand, having too few means boring learning materials and few connection methods, and that loses student interest and dedication as well. Try to choose the right amount of tools for the needs of a given course and its topics. For example, giving the students ten ways to contact the instructor via ten different chat tools is too much. Just choose one. By making smart and efficient choices then the tools work for the course and students rather than the other way around.",
+    "content_short": "Online teaching can quickly become overwhelming. Finding ways to offer detailed and quality support, learning, and feedback, but through efficient and time-saving methods, will mean higher quality learning for less ...",
+    "publisher": "Autoedici\u00f3n",
+    "publisher_date": "2018",
+    "pages": "199",
+    "language": "english",
+    "url_details": "http:\/\/www.etnassoft.com\/biblioteca\/virtual-learning-design-and-delivery\/",
+    "url_download": "https:\/\/openlibra.com\/book\/virtual-learning-design-and-delivery",
+    "cover": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2018\/12\/Virtual-Learning-Design-and-Delivery_OpenLibra-350x461.gif",
+    "thumbnail": "https:\/\/olcovers2.blob.core.windows.net\/coverswp\/2018\/12\/Virtual-Learning-Design-and-Delivery_OpenLibra-110x153.gif",
+    "num_comments": "0",
+    "categories": [
+      {
+        "category_id": 1441,
+        "name": "Educaci\u00f3n",
+        "nicename": "educacion"
+      }
+    ],
+    "tags": [
+      {
+        "tag_id": 901,
+        "name": "aprendizaje",
+        "nicename": "aprendizaje"
+      },
+      {
+        "tag_id": 566,
+        "name": "e-learning",
+        "nicename": "e-learning"
+      },
+      {
+        "tag_id": 567,
+        "name": "educaci\u00f3n",
+        "nicename": "educacion"
+      },
+      {
+        "tag_id": 802,
+        "name": "Ense\u00f1anza",
+        "nicename": "ensenanza"
+      },
+      {
+        "tag_id": 1249,
+        "name": "pedagog\u00eda",
+        "nicename": "pedagogia"
+      },
+      {
+        "tag_id": 803,
+        "name": "tecnolog\u00eda",
+        "nicename": "tecnologia"
+      }
+    ]
+  }
+]
